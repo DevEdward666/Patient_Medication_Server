@@ -1,0 +1,375 @@
+D:\work\test_raname\CMS_API\WEB_API\bin\WEB_API.dll.config
+D:\work\test_raname\CMS_API\WEB_API\bin\WEB_API.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\WEB_API.pdb
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\csc.exe
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\csc.exe.config
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\csc.rsp
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\csi.exe
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\csi.exe.config
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\csi.rsp
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Console.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Net.Http.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Net.Sockets.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\vbc.exe
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\vbc.rsp
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\work\test_raname\CMS_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportSource.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.Shared.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Dapper.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\log4net.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Cors.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Security.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Web.Infrastructure.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\MySql.Data.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Owin.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Cors.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Helpers.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.Cors.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.Owin.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Mvc.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Optimization.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Razor.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.WebPages.Deployment.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.WebPages.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.WebPages.Razor.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\WebGrease.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\stdole.dll
+D:\work\test_raname\CMS_API\WEB_API\bin\Dapper.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\log4net.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Cors.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Security.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.Cors.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.Owin.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Helpers.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Mvc.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Optimization.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.Razor.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.WebPages.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.WebPages.Deployment.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\System.Web.WebPages.Razor.xml
+D:\work\test_raname\CMS_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\test_raname\CMS_API\WEB_API\obj\Debug\CMS_API.csprojAssemblyReference.cache
+D:\work\test_raname\CMS_API\WEB_API\obj\Debug\CMS_API.csproj.CopyComplete
+D:\work\test_raname\CMS_API\WEB_API\obj\Debug\WEB_API.dll
+D:\work\test_raname\CMS_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\WEB_API.dll.config
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\WEB_API.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\WEB_API.pdb
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\csc.exe
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\csc.exe.config
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\csc.rsp
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\csi.exe
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\csi.exe.config
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\csi.rsp
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.AppContext.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Collections.Immutable.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Console.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.IO.Compression.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.IO.FileSystem.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Net.Http.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Net.Sockets.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.ValueTuple.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Xml.XPath.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\vbc.exe
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\vbc.exe.config
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\vbc.rsp
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\VBCSCompiler.exe
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\roslyn\VBCSCompiler.exe.config
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportSource.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.Shared.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Dapper.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\log4net.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Cors.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Security.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Web.Infrastructure.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\MySql.Data.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Newtonsoft.Json.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Owin.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Net.Http.Formatting.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Cors.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Helpers.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.Cors.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.Owin.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.WebHost.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Mvc.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Optimization.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Razor.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.WebPages.Deployment.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.WebPages.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.WebPages.Razor.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\WebGrease.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\stdole.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Dapper.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\log4net.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Cors.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Security.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.Cors.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.Owin.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Newtonsoft.Json.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Net.Http.Formatting.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Helpers.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Http.WebHost.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Mvc.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Optimization.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.Razor.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.WebPages.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.WebPages.Deployment.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\System.Web.WebPages.Razor.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\Clinic Information System\CMS_API\CMS_API\obj\Debug\CMS_API.csprojAssemblyReference.cache
+D:\work\Clinic Information System\CMS_API\CMS_API\obj\Debug\CMS_API.csproj.CopyComplete
+D:\work\Clinic Information System\CMS_API\CMS_API\obj\Debug\WEB_API.dll
+D:\work\Clinic Information System\CMS_API\CMS_API\obj\Debug\WEB_API.pdb
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\WEB_API.dll.config
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\WEB_API.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\WEB_API.pdb
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\csc.exe
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\csc.exe.config
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\csc.rsp
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\csi.exe
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\csi.exe.config
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\csi.rsp
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.AppContext.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Collections.Immutable.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Console.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.IO.Compression.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.IO.FileSystem.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Net.Http.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Net.Sockets.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.ValueTuple.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Xml.XPath.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\vbc.exe
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\vbc.exe.config
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\vbc.rsp
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\VBCSCompiler.exe
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\roslyn\VBCSCompiler.exe.config
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportSource.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.Shared.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Dapper.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\log4net.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Cors.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Security.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Web.Infrastructure.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\MySql.Data.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Newtonsoft.Json.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Owin.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Net.Http.Formatting.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Cors.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Helpers.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.Cors.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.Owin.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.WebHost.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Mvc.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Optimization.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Razor.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.WebPages.Deployment.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.WebPages.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.WebPages.Razor.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\WebGrease.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\stdole.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Dapper.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\log4net.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Cors.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Security.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.Cors.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.Owin.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Newtonsoft.Json.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Net.Http.Formatting.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Helpers.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Http.WebHost.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Mvc.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Optimization.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.Razor.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.WebPages.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.WebPages.Deployment.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\System.Web.WebPages.Razor.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\obj\Debug\CMS_API.csprojAssemblyReference.cache
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\obj\Debug\CMS_API.csproj.CopyComplete
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\obj\Debug\WEB_API.dll
+D:\work\Doctor's Portal\DOCTOR_PORTAL_API\CMS_API\obj\Debug\WEB_API.pdb

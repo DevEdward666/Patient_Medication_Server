@@ -1,0 +1,779 @@
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\WEB_API.dll.config
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\WEB_API.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\WEB_API.pdb
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\csc.exe
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\csc.exe.config
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\csc.rsp
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\csi.exe
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\csi.exe.config
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\csi.rsp
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.AppContext.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Collections.Immutable.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Console.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Globalization.Calendars.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.IO.Compression.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.IO.FileSystem.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Net.Http.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Net.Sockets.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.ValueTuple.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Xml.XPath.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\vbc.exe
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\vbc.exe.config
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\vbc.rsp
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\VBCSCompiler.exe
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\roslyn\VBCSCompiler.exe.config
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Dapper.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\HtmlRenderer.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\HtmlRenderer.PdfSharp.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\itextsharp.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\log4net.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\MarkupConverter.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Cors.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Security.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Web.Administration.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Web.Infrastructure.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Win32.Registry.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\MySql.Data.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Newtonsoft.Json.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Owin.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\PayPal.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\PdfSharp.Charting.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\PdfSharp.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\RtfPipe.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Diagnostics.DiagnosticSource.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Net.Http.Formatting.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Reflection.TypeExtensions.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Security.Principal.Windows.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.ServiceProcess.ServiceController.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Cors.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Helpers.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.Cors.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.Owin.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.WebHost.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Mvc.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Optimization.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Razor.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.WebPages.Deployment.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.WebPages.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.WebPages.Razor.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\WebGrease.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\stdole.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Dapper.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\HtmlRenderer.pdb
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\HtmlRenderer.PdfSharp.pdb
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\itextsharp.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\log4net.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Cors.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Security.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\PayPal.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\PdfSharp.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\PdfSharp.Charting.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Diagnostics.DiagnosticSource.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.Cors.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.Owin.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Newtonsoft.Json.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Net.Http.Formatting.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Helpers.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Http.WebHost.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Mvc.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Optimization.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.Razor.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.WebPages.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.WebPages.Deployment.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\System.Web.WebPages.Razor.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\de\PdfSharp.resources.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\bin\de\PdfSharp.Charting.resources.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\obj\Debug\ServiceCareServer.csprojAssemblyReference.cache
+D:\work\Service Care\RadSyncServer\RadSyncServer\obj\Debug\ServiceCareServer.csproj.CoreCompileInputs.cache
+D:\work\Service Care\RadSyncServer\RadSyncServer\obj\Debug\ServiceCareServer.csproj.CopyComplete
+D:\work\Service Care\RadSyncServer\RadSyncServer\obj\Debug\WEB_API.dll
+D:\work\Service Care\RadSyncServer\RadSyncServer\obj\Debug\WEB_API.pdb
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csprojAssemblyReference.cache
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csproj.CoreCompileInputs.cache
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\obj\Debug\WEB_API.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\obj\Debug\WEB_API.pdb
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\WEB_API.dll.config
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\WEB_API.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\WEB_API.pdb
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.exe
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.exe.config
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.rsp
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.exe
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.exe.config
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.rsp
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.AppContext.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Collections.Immutable.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Console.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Globalization.Calendars.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.Compression.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.FileSystem.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Net.Http.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Net.Sockets.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.ValueTuple.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XPath.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.exe
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.exe.config
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.rsp
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\VBCSCompiler.exe
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\roslyn\VBCSCompiler.exe.config
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Dapper.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.PdfSharp.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\itextsharp.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\log4net.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\MarkupConverter.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Cors.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Web.Administration.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Web.Infrastructure.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Win32.Registry.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\MySql.Data.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Newtonsoft.Json.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Owin.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\PayPal.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\PdfSharp.Charting.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\PdfSharp.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\RtfPipe.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.DiagnosticSource.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.Formatting.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Reflection.TypeExtensions.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Security.Principal.Windows.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.ServiceProcess.ServiceController.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Cors.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Helpers.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Cors.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Owin.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.WebHost.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Mvc.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Optimization.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Razor.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Deployment.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Razor.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\WebGrease.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\stdole.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Dapper.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.pdb
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.PdfSharp.pdb
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\itextsharp.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\log4net.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Cors.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\PayPal.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\PdfSharp.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\PdfSharp.Charting.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.DiagnosticSource.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Cors.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Owin.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Newtonsoft.Json.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.Formatting.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Helpers.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.WebHost.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Mvc.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Optimization.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.Razor.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Deployment.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Razor.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\de\PdfSharp.resources.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\bin\de\PdfSharp.Charting.resources.dll
+D:\work\Service Care\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csproj.CopyComplete
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\WEB_API.dll.config
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\WEB_API.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\WEB_API.pdb
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.exe
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.exe.config
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.rsp
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.exe
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.exe.config
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.rsp
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.AppContext.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Console.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.Compression.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Net.Http.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.ValueTuple.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.exe
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.exe.config
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.rsp
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Dapper.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.PdfSharp.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\itextsharp.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\log4net.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\MarkupConverter.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Cors.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Web.Administration.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Win32.Registry.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\MySql.Data.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Newtonsoft.Json.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Owin.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\PayPal.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\PdfSharp.Charting.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\PdfSharp.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\RtfPipe.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.Formatting.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Reflection.TypeExtensions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Principal.Windows.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ServiceProcess.ServiceController.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Cors.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Helpers.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Cors.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Owin.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.WebHost.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Mvc.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Optimization.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Razor.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\WebGrease.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Dapper.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.pdb
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.PdfSharp.pdb
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\itextsharp.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\log4net.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Cors.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\PayPal.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\PdfSharp.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\PdfSharp.Charting.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Cors.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Owin.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Newtonsoft.Json.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.Formatting.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Helpers.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.WebHost.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Mvc.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Optimization.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.Razor.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\de\PdfSharp.resources.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\de\PdfSharp.Charting.resources.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csproj.CoreCompileInputs.cache
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csproj.CopyComplete
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\obj\Debug\WEB_API.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\obj\Debug\WEB_API.pdb
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\Microsoft.Win32.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\netstandard.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.AppContext.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Collections.Concurrent.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Collections.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Collections.NonGeneric.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Collections.Specialized.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Console.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Data.Common.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Contracts.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Debug.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Process.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.StackTrace.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Tools.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.TraceSource.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Tracing.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Drawing.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Dynamic.Runtime.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Globalization.Calendars.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Globalization.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Globalization.Extensions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.Compression.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.Compression.ZipFile.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.IsolatedStorage.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.Pipes.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Linq.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Linq.Expressions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Linq.Parallel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Linq.Queryable.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.NameResolution.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.NetworkInformation.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Ping.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Requests.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Security.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.Sockets.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.WebHeaderCollection.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.WebSockets.Client.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Net.WebSockets.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ObjectModel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Reflection.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Reflection.Extensions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Reflection.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Resources.Reader.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Resources.ResourceManager.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Resources.Writer.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Extensions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Handles.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.InteropServices.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Numerics.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Json.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Claims.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Csp.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.Principal.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Security.SecureString.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Text.Encoding.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Text.Encoding.Extensions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Text.RegularExpressions.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.Overlapped.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.Tasks.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.Thread.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.ThreadPool.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Threading.Timer.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.ValueTuple.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Xml.ReaderWriter.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Xml.XDocument.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Xml.XmlDocument.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Xml.XmlSerializer.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Xml.XPath.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\System.Xml.XPath.XDocument.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csprojAssemblyReference.cache
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportSource.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.Shared.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mrmon\Work\Projects\ServiceCare\ServiceCareServer\ServiceCareServer\bin\stdole.dll
+E:\ServiceCareServer\ServiceCareServer\bin\WEB_API.dll.config
+E:\ServiceCareServer\ServiceCareServer\bin\WEB_API.dll
+E:\ServiceCareServer\ServiceCareServer\bin\WEB_API.pdb
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.exe
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.exe.config
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\csc.rsp
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.exe
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.exe.config
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\csi.rsp
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.AppContext.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Collections.Immutable.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Console.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Globalization.Calendars.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.Compression.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.FileSystem.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Net.Http.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Net.Sockets.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Reflection.Metadata.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.ValueTuple.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XPath.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.exe
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.exe.config
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\vbc.rsp
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\VBCSCompiler.exe
+E:\ServiceCareServer\ServiceCareServer\bin\roslyn\VBCSCompiler.exe.config
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Win32.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\netstandard.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.AppContext.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Collections.Concurrent.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Collections.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Collections.NonGeneric.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Collections.Specialized.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.EventBasedAsync.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ComponentModel.TypeConverter.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Console.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Data.Common.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Contracts.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Debug.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.FileVersionInfo.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Process.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.StackTrace.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Tools.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.TraceSource.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.Tracing.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Drawing.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Dynamic.Runtime.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Globalization.Calendars.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Globalization.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Globalization.Extensions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.Compression.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.Compression.ZipFile.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.DriveInfo.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.FileSystem.Watcher.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.IsolatedStorage.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.MemoryMappedFiles.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.Pipes.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.IO.UnmanagedMemoryStream.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Linq.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Linq.Expressions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Linq.Parallel.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Linq.Queryable.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.NameResolution.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.NetworkInformation.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Ping.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Requests.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Security.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Sockets.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.WebHeaderCollection.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.WebSockets.Client.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.WebSockets.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ObjectModel.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Reflection.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Reflection.Extensions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Reflection.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Resources.Reader.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Resources.ResourceManager.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Resources.Writer.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Extensions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Handles.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.InteropServices.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Numerics.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Formatters.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Json.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Runtime.Serialization.Xml.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Claims.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Algorithms.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Csp.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Encoding.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.Primitives.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Cryptography.X509Certificates.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Principal.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.SecureString.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Text.Encoding.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Text.Encoding.Extensions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Text.RegularExpressions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.Overlapped.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.Tasks.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.Tasks.Parallel.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.Thread.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.ThreadPool.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Threading.Timer.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ValueTuple.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Xml.ReaderWriter.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Xml.XDocument.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Xml.XmlDocument.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Xml.XmlSerializer.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Xml.XPath.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Xml.XPath.XDocument.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Dapper.dll
+E:\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.dll
+E:\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.PdfSharp.dll
+E:\ServiceCareServer\ServiceCareServer\bin\itextsharp.dll
+E:\ServiceCareServer\ServiceCareServer\bin\log4net.dll
+E:\ServiceCareServer\ServiceCareServer\bin\MarkupConverter.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Cors.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Web.Administration.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Web.Infrastructure.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Win32.Registry.dll
+E:\ServiceCareServer\ServiceCareServer\bin\MySql.Data.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Newtonsoft.Json.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Owin.dll
+E:\ServiceCareServer\ServiceCareServer\bin\PayPal.dll
+E:\ServiceCareServer\ServiceCareServer\bin\PdfSharp.Charting.dll
+E:\ServiceCareServer\ServiceCareServer\bin\PdfSharp.dll
+E:\ServiceCareServer\ServiceCareServer\bin\RtfPipe.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.DiagnosticSource.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.Formatting.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Reflection.TypeExtensions.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Security.Principal.Windows.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.ServiceProcess.ServiceController.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Cors.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Helpers.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Cors.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Owin.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.WebHost.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Mvc.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Optimization.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Razor.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Deployment.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.dll
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Razor.dll
+E:\ServiceCareServer\ServiceCareServer\bin\WebGrease.dll
+E:\ServiceCareServer\ServiceCareServer\bin\stdole.dll
+E:\ServiceCareServer\ServiceCareServer\bin\Dapper.xml
+E:\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.pdb
+E:\ServiceCareServer\ServiceCareServer\bin\HtmlRenderer.PdfSharp.pdb
+E:\ServiceCareServer\ServiceCareServer\bin\itextsharp.xml
+E:\ServiceCareServer\ServiceCareServer\bin\log4net.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Cors.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ServiceCareServer\ServiceCareServer\bin\PayPal.xml
+E:\ServiceCareServer\ServiceCareServer\bin\PdfSharp.xml
+E:\ServiceCareServer\ServiceCareServer\bin\PdfSharp.Charting.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Diagnostics.DiagnosticSource.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Cors.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.Owin.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Newtonsoft.Json.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Net.Http.Formatting.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Helpers.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Http.WebHost.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Mvc.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Optimization.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.Razor.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Deployment.xml
+E:\ServiceCareServer\ServiceCareServer\bin\System.Web.WebPages.Razor.xml
+E:\ServiceCareServer\ServiceCareServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ServiceCareServer\ServiceCareServer\bin\de\PdfSharp.resources.dll
+E:\ServiceCareServer\ServiceCareServer\bin\de\PdfSharp.Charting.resources.dll
+E:\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csprojAssemblyReference.cache
+E:\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csproj.CoreCompileInputs.cache
+E:\ServiceCareServer\ServiceCareServer\obj\Debug\ServiceCareServer.csproj.CopyComplete
+E:\ServiceCareServer\ServiceCareServer\obj\Debug\WEB_API.dll
+E:\ServiceCareServer\ServiceCareServer\obj\Debug\WEB_API.pdb

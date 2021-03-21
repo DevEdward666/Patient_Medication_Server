@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsOfficialReceipt" targetNamespace="http://tempuri.org/dsOfficialReceipt.xsd" xmlns:mstns="http://tempuri.org/dsOfficialReceipt.xsd" xmlns="http://tempuri.org/dsOfficialReceipt.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsOfficialReceipt" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsOfficialReceipt" msprop:Generator_UserDSName="dsOfficialReceipt">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtProcedures" msprop:Generator_TableClassName="dtProceduresDataTable" msprop:Generator_TableVarName="tabledtProcedures" msprop:Generator_RowChangedName="dtProceduresRowChanged" msprop:Generator_TablePropName="dtProcedures" msprop:Generator_RowDeletingName="dtProceduresRowDeleting" msprop:Generator_RowChangingName="dtProceduresRowChanging" msprop:Generator_RowEvHandlerName="dtProceduresRowChangeEventHandler" msprop:Generator_RowDeletedName="dtProceduresRowDeleted" msprop:Generator_RowClassName="dtProceduresRow" msprop:Generator_UserTableName="dtProcedures" msprop:Generator_RowEvArgName="dtProceduresRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="procedure" msprop:Generator_ColumnVarNameInTable="columnprocedure" msprop:Generator_ColumnPropNameInRow="procedure" msprop:Generator_ColumnPropNameInTable="procedureColumn" msprop:Generator_UserColumnName="procedure" type="xs:string" minOccurs="0" />
+              <xs:element name="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnPropNameInTable="priceColumn" msprop:Generator_UserColumnName="price" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DatatableLogo" msprop:Generator_TableClassName="DatatableLogoDataTable" msprop:Generator_TableVarName="tableDatatableLogo" msprop:Generator_TablePropName="DatatableLogo" msprop:Generator_RowDeletingName="DatatableLogoRowDeleting" msprop:Generator_RowChangingName="DatatableLogoRowChanging" msprop:Generator_RowEvHandlerName="DatatableLogoRowChangeEventHandler" msprop:Generator_RowDeletedName="DatatableLogoRowDeleted" msprop:Generator_UserTableName="DatatableLogo" msprop:Generator_RowChangedName="DatatableLogoRowChanged" msprop:Generator_RowEvArgName="DatatableLogoRowChangeEvent" msprop:Generator_RowClassName="DatatableLogoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtQrCode" msprop:Generator_TableClassName="dtQrCodeDataTable" msprop:Generator_TableVarName="tabledtQrCode" msprop:Generator_TablePropName="dtQrCode" msprop:Generator_RowDeletingName="dtQrCodeRowDeleting" msprop:Generator_RowChangingName="dtQrCodeRowChanging" msprop:Generator_RowEvHandlerName="dtQrCodeRowChangeEventHandler" msprop:Generator_RowDeletedName="dtQrCodeRowDeleted" msprop:Generator_UserTableName="dtQrCode" msprop:Generator_RowChangedName="dtQrCodeRowChanged" msprop:Generator_RowEvArgName="dtQrCodeRowChangeEvent" msprop:Generator_RowClassName="dtQrCodeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="qrCode" msprop:Generator_ColumnVarNameInTable="columnqrCode" msprop:Generator_ColumnPropNameInRow="qrCode" msprop:Generator_ColumnPropNameInTable="qrCodeColumn" msprop:Generator_UserColumnName="qrCode" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

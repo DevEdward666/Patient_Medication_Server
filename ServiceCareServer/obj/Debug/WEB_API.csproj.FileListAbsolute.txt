@@ -1,0 +1,308 @@
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Reports\Meeting\rpMeeting.rpt
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Reports\Meeting\rpMeeting.cs
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\WEB_API.dll.config
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\WEB_API.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\WEB_API.pdb
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\csc.exe
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\csc.exe.config
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\csc.rsp
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\csi.exe
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\csi.exe.config
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\csi.rsp
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Console.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Net.Http.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Net.Sockets.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\vbc.exe
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\vbc.rsp
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Antlr3.Runtime.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\CrystalDecisions.ReportSource.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\CrystalDecisions.Shared.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Dapper.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\log4net.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Cors.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Security.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\MySql.Data.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Owin.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Cors.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Helpers.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.Cors.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.Owin.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Mvc.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Optimization.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Razor.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.WebPages.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.WebPages.Razor.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\WebGrease.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Dapper.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\log4net.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Cors.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Security.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.Cors.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.Owin.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Helpers.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Mvc.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Optimization.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.Razor.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.WebPages.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\System.Web.WebPages.Razor.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Antlr3.Runtime.pdb
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\cs\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\da\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\de\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\en\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\es\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\fi\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\fr\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\hu\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\it\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ja\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ko\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\nl\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\pl\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\pt\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ru\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\sk\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\sv\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\th\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\tr\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\cs\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\da\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\de\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\en\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\es\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\fi\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\fr\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\hu\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\it\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ja\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ko\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\nl\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\pl\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\pt\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\ru\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\sk\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\sv\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\th\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\tr\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\obj\Debug\WEB_API.dll
+D:\Work\Meeting Information Management System\MIMS_WEB_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\WEB_API.dll.config
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\WEB_API.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\WEB_API.pdb
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\csc.exe
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\csc.exe.config
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\csc.rsp
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\csi.exe
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\csi.exe.config
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\csi.rsp
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.AppContext.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Collections.Immutable.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Console.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Globalization.Calendars.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.IO.Compression.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.IO.FileSystem.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Net.Http.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Net.Sockets.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.ValueTuple.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Xml.XPath.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\vbc.exe
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\vbc.exe.config
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\vbc.rsp
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\VBCSCompiler.exe
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\roslyn\VBCSCompiler.exe.config
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Dapper.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\log4net.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Cors.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Security.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Web.Infrastructure.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\MySql.Data.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Newtonsoft.Json.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Owin.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Net.Http.Formatting.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Cors.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Helpers.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.Cors.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.Owin.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.WebHost.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Mvc.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Optimization.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Razor.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.WebPages.Deployment.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.WebPages.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.WebPages.Razor.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\WebGrease.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Dapper.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\log4net.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Cors.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Security.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.Cors.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.Owin.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Newtonsoft.Json.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Net.Http.Formatting.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Helpers.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Http.WebHost.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Mvc.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Optimization.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.Razor.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.WebPages.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.WebPages.Deployment.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\System.Web.WebPages.Razor.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\Clinic Information System\CMS_API\WEB_API\obj\Debug\WEB_API.csproj.CopyComplete
+D:\work\Clinic Information System\CMS_API\WEB_API\obj\Debug\WEB_API.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\obj\Debug\WEB_API.pdb
+D:\work\Clinic Information System\CMS_API\WEB_API\obj\Debug\WEB_API.csprojAssemblyReference.cache
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportSource.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.Shared.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\stdole.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\work\Clinic Information System\CMS_API\WEB_API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
